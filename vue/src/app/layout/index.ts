@@ -1,1 +1,1 @@
-export { default as LBase } from './base.vue'
+export { default as LBase } from './Base.vue'

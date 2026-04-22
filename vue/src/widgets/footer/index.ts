@@ -1,0 +1,1 @@
+export { default as UFooter } from './ui/Footer.vue'

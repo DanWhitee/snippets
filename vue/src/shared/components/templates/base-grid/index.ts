@@ -1,2 +1,2 @@
-export { default as UBaseGrid } from './ui/base-grid.vue'
+export { default as UBaseGrid } from './ui/Base-grid.vue'
 export * from './model/type'
