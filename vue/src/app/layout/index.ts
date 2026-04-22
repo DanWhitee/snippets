@@ -1,0 +1,1 @@
+export { default as LBase } from './base.vue'
